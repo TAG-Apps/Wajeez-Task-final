@@ -44,7 +44,7 @@ class AppUtils @Inject constructor(
     val db = Firebase.firestore
     val firebaseStore = FirebaseStorage.getInstance()
     val storageReference = FirebaseStorage.getInstance().reference
-
+//test
      fun setup() {
         // [START get_firestore_instance]
         // [END get_firestore_instance]
